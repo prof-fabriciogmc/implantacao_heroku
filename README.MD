@@ -18,9 +18,9 @@ env/Scripts/activate.bat
 ```console
 pip install -r requirements.txt
 ```
-5. Executar a aplicação (na pasta src/)
+5. Executar a aplicação
 ```console
-python application.py
+python src/app.py
 ```
 
 II. Implantar no Heroku (supondo que já tenha a conta na plataforma)
